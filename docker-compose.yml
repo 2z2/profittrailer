@@ -9,4 +9,4 @@ services:
     volumes:
       - /root/profittrailer:/app/ProfitTrailer
     environment:
-      PT_VERSION: 2.5.55
+      PT_VERSION: 2.5.58
